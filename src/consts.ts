@@ -35,11 +35,11 @@ export const NAV_LINKS: Link[] = [
 ]
 
 export const SOCIAL_LINKS_MAP: Record<string, string> = {
-  'LinkedIn': 'https://www.linkedin.com/in/yshell-dev/',
-  'GitHub': 'https://github.com/yshell-dev',
+  'LinkedIn': 'https://www.linkedin.com/in/yshelldev/',
+  'GitHub': 'https://github.com/yshelldev',
   'Instagram': 'https://www.instagram.com/yshell.dev/',
   'DevTo': 'https://dev.to/yshell',
-  'Email': 'mailto:'+SITE.EMAIL,
+  'Email': 'mailto:' + SITE.EMAIL,
   'RSS': '/rss.xml',
 }
 

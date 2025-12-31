@@ -55,7 +55,7 @@ You may not:
 ### 6. Community and Contributions
 
 During the preview period, you are encouraged to:
-- Share feedback, examples, or ideas via github.com/yshell-dev/xcss-online.
+- Share feedback, examples, or ideas via github.com/yshelldev/xcss-online.
 - Integrate XCSS into your projects and showcase it.
 - Discuss potential contributions by contacting xcss@xpktr.com.
 Any contributions submitted to XPKTR Labs become the property of XPKTR Labs or are licensed under terms specified by XPKTR Labs at the time of submission.

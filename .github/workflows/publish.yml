@@ -9,7 +9,7 @@ on:
     branches: ['main']
   repository_dispatch:
     types: [trigger-publish]
-  workflow_dispatch:  
+  workflow_dispatch:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -35,10 +35,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-            submodules: recursive
-            token: ${{ secrets.GH_PERSONAL }}
+          submodules: recursive
+          token: ${{ secrets.GH_PERSONAL }}
 
-      # Sync submodule at src/content, and sync it to latest and push to yshell-dev 
+      # Sync submodule at src/content, and sync it to latest and push to yshelldev
       - name: Sync and push submodule updates at src/content
         run: |
           cd src/content
