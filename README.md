@@ -12,7 +12,7 @@ An editor-native environment for authoring, previewing, and debugging UI systems
 
 ### Arachne: Frontend statemanager
 
-Arachnate takes an experimental approach to frontend state management, trading TypeScript type safety for raw performance gains.
+Arachne takes an experimental approach to frontend state management, trading TypeScript type safety for raw performance gains.
 _(Developent in progress)_
 
 - Repository: https://github.com/yshelldev/arachne
